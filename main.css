@@ -72,7 +72,7 @@ background-image: url("https://www.transparenttextures.com/patterns/brick-wall.p
 }
 
 .main-menu a:first-child::before {
-	background:url(blob//img/home.png) center no-repeat;
+	background:url(blob/img/home.png) center no-repeat;
 }
 
 .settings a:first-child::before {
